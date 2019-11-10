@@ -1,9 +1,12 @@
+
 # prototype
 
 ## Project setup
+Execute ``npm-install.sh`` from the root directory or manually by running:
 ```
 npm install
 ```
+from terminal/console.
 
 ### Compiles and hot-reloads for development
 ```
