@@ -1,5 +1,5 @@
 
-# prototype
+# Vue.js Template Project
 
 ## Project setup
 Execute ``npm-install.sh`` from the root directory or manually by running:
